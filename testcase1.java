@@ -16,5 +16,6 @@ public class testcase1 {
 		web.get("C:\\JavaClass\\Seleinum\\Test.html");		
 		System.out.println(web.getTitle());
 		System.out.println(web.getCurrentUrl());
+              //System.out.println(web.getCurrentUrl());
 	}
 }
